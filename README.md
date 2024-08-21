@@ -44,7 +44,7 @@ Try it live on [csproconnect.me](https://csproconnect.me) using the default cred
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/himilsinh-sindha/CSProConnect-MERN.git
+    git clone https://github.com/Preet2003/CSProConnect-MERN.git
     ```
 2. **Navigate to the project directory:**
     ```bash
